@@ -16,7 +16,6 @@ Benefits of doing this is to build the model on the device so that data does not
 
 ## Developer 
   Raunak Sarada 
-  - Reach me here 
   - [Github](https://github.com/raunak222) 
   - [linkedin](https://www.linkedin.com/in/raunak-sarada)
 ## Resources 
