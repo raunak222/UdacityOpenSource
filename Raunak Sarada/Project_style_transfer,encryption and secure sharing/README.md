@@ -13,7 +13,7 @@
 ### Style Image
 ![alt text](https://github.com/raunak222/UdacityOpenSource/blob/master/Raunak%20Sarada/Project_style_transfer%2Cencryption%20and%20secure%20sharing/rsz_p3.jpg)
 ### Output Image
-![alt text](https://github.com/raunak222/UdacityOpenSource/blob/master/Raunak%20Sarada/Project_style_transfer%2Cencryption%20and%20secure%20sharing/out.jpg)
+![alt text](https://github.com/raunak222/UdacityOpenSource/blob/master/Raunak%20Sarada/Project_style_transfer%2Cencryption%20and%20secure%20sharing/out_f.PNG)
 ## Using Pysyft
  - First we perform normal style tranfer using pytorch then send the output to another user on same network using Pysyft, we also demonstrate that this can be send with encryption.
 
